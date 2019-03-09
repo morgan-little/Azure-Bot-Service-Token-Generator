@@ -1,6 +1,6 @@
-# Node.js Hello World
+# Node.js Azure Bot Service Token Generator
 
-This sample demonstrates a tiny Hello World node.js app for [App Service Web App](https://docs.microsoft.com/azure/app-service-web).
+This sample demonstrates a small Token Generator to with withj Azure Bot Service Direct Line v3.0 API to return tokens for a conversation. This sample implements some basic security features, helmet and CORS, and uses express. It also implements some basic application insights code
 
 # Contributing
 
